@@ -20,6 +20,14 @@ h1,h2{
 .sharp-corners, .sharp-corners *{
     border-radius: 0;
 }
+header .btn{
+    background-color: #184f63;
+    color: white;
+    border: none;
+}
+header .btn:hover{
+    background-color: #1d6d81;
+}
 /* about section */
 #about{
     background-color: white;
@@ -41,6 +49,22 @@ background-color: #1f7798;
 /* contact */
 #contact{
     background-color: white;
+}
+#contact .btn{
+    background-color: #184f63;
+    color: white;
+    border: none;
+}
+#contact .btn:hover{
+background-color:#1d6d81 ;
+}
+#exampleModal .btn{
+    background-color: #184f63;
+    color: white;
+    border: none;
+}
+#exampleModal .btn:hover{
+    background-color: #1d6d81;
 }
 #hero{
     background: lightgray url("/assets/images/background.webp") no-repeat 50%/70%;
