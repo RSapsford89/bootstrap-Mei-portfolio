@@ -17,6 +17,9 @@ h1,h2{
     color:#184f63; /*dark-blue*/
     text-align: center;
 }
+.sharp-corners, .sharp-corners *{
+    border-radius: 0;
+}
 /* about section */
 #about{
     background-color: white;
